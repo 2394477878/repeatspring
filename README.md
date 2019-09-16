@@ -1,4 +1,4 @@
 ##社区
  
  ##网址
- http://www.spring.io/guides
+ http://spring.io/guides
